@@ -34,7 +34,9 @@ src/
 ├── util/ # Helpers, utilities
 └── config/ # Configuration & design patterns
 
+
 ---
+
 
 ## 🚀 Setup & Run
 
@@ -43,16 +45,24 @@ src/
 - Verify installation:
   ```bash
   java -version
+
+
   
 2️⃣ Compile
 javac -d bin src/edu/ccrm/**/*.java
 
+
+
 3️⃣ Run
 java -cp bin edu.ccrm.cli.Main
 
-📸 Screenshot
+
+
+# 📸 Screenshot
 <img width="688" height="436" alt="CCRM CLI Screenshot" src="https://github.com/user-attachments/assets/4b772523-fd9c-4ea7-ae84-c7d43031af11" />
 
-👨‍💻 Author
+
+
+# 👨‍💻 Author
 
 Developed with ❤️ by Yash Rajput
