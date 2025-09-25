@@ -1,0 +1,6 @@
+*.class
+*.log
+test-data/
+ExportsBackups/
+screenshots/
+.DS_Store
